@@ -27,7 +27,7 @@ print("\n-----------------------------------------------------------------------
 print("iOS Notification Parser.")
 print("Objective: Triage iOS notifications content.")
 print("By: Alexis Brignoni | @AlexisBrignoni | abrignoni.com")
-print("Data Directory: " + data_dir)
+print(f"Data Directory: {data_dir}")
 print("\n--------------------------------------------------------------------------------------")
 print("")
 
